@@ -3,7 +3,7 @@
 config/app.php dosyasındaki providers alanına
 
 ```
-\sedaaydin360drc\greetings\ApexServiceProvider::class,
+\sedaaydin360drc\greetings2\Providers\ApexServiceProvider::class,
 ```
 
 kodunu ekleyin.

@@ -1,8 +1,9 @@
 <?php
 
-namespace sedaaydin360drc\greetings2;
+namespace sedaaydin360drc\greetings2\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use sedaaydin360drc\greetings2\Controller\PackageController;
 
 class ApexServiceProvider extends ServiceProvider
 {

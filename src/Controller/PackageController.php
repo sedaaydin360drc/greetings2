@@ -1,6 +1,6 @@
 <?php
 
-namespace sedaaydin360drc\greetings2;
+namespace sedaaydin360drc\greetings2\Controller;
 
 use App\Http\Controllers\Controller;
 
